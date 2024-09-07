@@ -1,4 +1,3 @@
-GNU nano 8.1              lie.sh
 #!/bin/bash
 
 # Import the necessary libraries
